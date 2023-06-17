@@ -1,0 +1,38 @@
+.fotoga{
+    height: 180px;
+    width: 276px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+body{
+    background-color: #f3d2c1;
+}
+.nav-link{
+    color: #001858;
+}
+.nav-link:hover{
+  
+    color: #bebebe;
+}
+.card-group{
+    color: #f3d2c1;
+}
+.card{
+    color: #fef6e4;
+}
+.card-title{
+    color: #001858;
+}
+.card-text{
+    color: #001858;
+}
+footer{
+    color: #001858;
+}
+
+.container{
+    color: #001858;
+}
